@@ -1,0 +1,9 @@
+.image-image {
+  height: 17vh;
+  width: 14vw;
+  border-radius: 10px;
+}
+.list-image {
+  list-style: none;
+  margin: 20px;
+}
